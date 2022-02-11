@@ -7,6 +7,9 @@
 body {
   background: #121214;
   height: 100vh;
+
+  font-family: 'Spartan', sans-serif;
+  font-family: 'Work Sans', sans-serif;
 }
 
 .container {
@@ -49,14 +52,32 @@ main {
   font-weight: bold;
 }
 
+.form-area {
+  margin-top: 16px;
+  line-height: 46px;
+  color: #a8a8a8;
+}
+
 .form-area input {
   height: 40px;
-  padding: 0 300px;
-  background: white;
+  padding: 0 340px;
+  background:white;
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+.let-me-read a {
+  text-decoration: none;
+}
+
+.let-me-read img {
+  padding-left: 5px;
+  background: #8257e5;
+  
 }
 
 .right-side img {
-  height: 1000px;
+  height: 960px;
   width: 1000px;
   object-fit: cover;
 }
