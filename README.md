@@ -1,2 +1,2 @@
 # Exercicios RocketSeat
-Aprendizados e Exercícios feitos ao longo do curso da RocketSeat.
+Exercícios realizados ao longo do curso da RocketSeat.
