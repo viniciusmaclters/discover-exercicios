@@ -1,2 +1,2 @@
-# Exercicios RocketSeat
-Exercícios realizados ao longo do curso da RocketSeat.
+# Desafios RocketSeat
+Desafios realizados ao longo do curso Discover da RocketSeat.
