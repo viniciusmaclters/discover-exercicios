@@ -48,7 +48,7 @@ body {
   display: flex;
   flex-direction: column;
 
-  padding: 20px;
+  padding: 10px;
   border-radius: 5%;
 
   filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
@@ -64,6 +64,41 @@ body {
   padding: 15px;
 }
 
-.info img {
+.techs {
+  background: var(--bg-cards);
   
+
+  padding: 15px;
+  border-radius: 5%;
+  margin-top: 30px;
+
+  filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
+}
+
+.techs ul {
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.techs ul li {
+  display: flex;
+  justify-content: center;
+
+  width: 95px;
+  padding: 5px;
+
+  color: black;
+  background: var(--bg-techs);
+  border-radius: 16px;
+}
+
+.education {
+  background: var(--bg-cards);
+  
+
+  padding: 15px;
+  border-radius: 5%;
+  margin-top: 30px;
+
+  filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
 }
