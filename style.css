@@ -92,6 +92,12 @@ body {
   background: #4640a7;
 }
 
+.col-a span {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 70px;
+}
+
 .col-b img {
   width: 52rem;
 }
