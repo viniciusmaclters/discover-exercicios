@@ -44,6 +44,10 @@ body {
 
 .countdown {
   display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 20px;
 }
 
 .countdown ul {
@@ -57,7 +61,7 @@ body {
 }
 
 .countdown ul li:nth-child(1) {
-  font-size: 18px;
+  font-size: 14px;
   color: var(--text-color);
 }
 
@@ -80,6 +84,12 @@ body {
   padding: 15px 35px;
 
   margin-top: 40px;
+
+  transition: 250ms;
+}
+
+.col-a button:hover {
+  background: #4640a7;
 }
 
 .col-b img {
